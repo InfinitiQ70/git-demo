@@ -13,7 +13,5 @@ hello Calvin! hello git!
 hello Calvin! hello git!
 hello Calvin! hello git!
 hello Calvin! hello git!
-<<<<<<< HEAD
 hello Calvin! hello git! master text
 hello Calvin! hello git! hot-fix text
->>>>>>> hot-fix
