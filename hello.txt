@@ -14,4 +14,4 @@ hello Calvin! hello git!
 hello Calvin! hello git!
 hello Calvin! hello git!
 hello Calvin! hello git!
-hello Calvin! hello git!
+hello Calvin! hello git! hot-fix text
